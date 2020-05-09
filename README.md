@@ -41,7 +41,9 @@ Many people had to cancle their vacation plans due to this pandemic. So we came 
 ## Links:
 * [Download App](https://drive.google.com/file/d/1Gq7LWtqNps0AYHN14icCCSoSty_YAUmH/view?usp=drivesdk)
 * [Website](https://niteshbharti005101.github.io/XploVR/)
-* [Video Demo](#)
+
+## Video
+[![Youtube](https://img.youtube.com/vi/VsculJWJEiQ/0.jpg)](https://www.youtube.com/watch?v=VsculJWJEiQ&feature=youtu.be)
 
 ## Contributors ✨
 
