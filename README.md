@@ -22,3 +22,16 @@ Our approach would be to make a VR application from Unity 3D and later merging t
 # Website Screenshot
 ![Web1](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/WhatsApp%20Image%202020-05-09%20at%2012.42.33%20PM.jpeg)
 ![Web2](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/WhatsApp%20Image%202020-05-09%20at%2012.42.57%20PM.jpeg)
+
+# Technologies used
+<ol> 
+  <li>Amazon Web Services(AWS)</li>
+<li> Unity 3D</li>
+</li> Python(Lambda)</li>
+<li>Amazon Skill Kit</li>
+<li> C#</li>
+<li> Node.js</li>
+<li> Google Cardboard</li>
+<li> Adobe Photoshop</li>
+<li> VR Box</li>
+<li> Node.js</li></ol>
