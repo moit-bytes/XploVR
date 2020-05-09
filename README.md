@@ -18,3 +18,7 @@ Our approach would be to make a VR application from Unity 3D and later merging t
 # App Screen
 ![app](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/app_3.png)
 ![app](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/app_6.png)
+
+# Website Screenshot
+![Web1](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/WhatsApp%20Image%202020-05-09%20at%2012.42.33%20PM.jpeg)
+![Web2](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/WhatsApp%20Image%202020-05-09%20at%2012.42.57%20PM.jpeg)
