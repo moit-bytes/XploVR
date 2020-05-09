@@ -20,14 +20,13 @@ Many people had to cancle their vacation plans due to this pandemic. So we came 
 ## Tech Stack:
 * Unity3D
 * GoogleVR
-* Alexa
-* Python(Lambda)
-* Amazon Skill Kit
+* Alexa Skill Kit
 * C#
 * Node.js
 * Google Cardboard
 * Adobe Photoshop
-* VR Box<
+* HTML/CSS
+* JavaScript
 * Node.js
 
 ## Alexa-Skills
