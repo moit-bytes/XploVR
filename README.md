@@ -35,16 +35,14 @@ Many people had to cancle their vacation plans due to this pandemic. So we came 
 <img src="./Screenshots/Eiffel.jpeg" width="700">
 <img src="./Screenshots/skills.JPG" width="700">
 
+# Website Screenshot
+<img src="./Screenshots/WhatsApp%20Image%202020-05-09%20at%2012.42.33%20PM.jpeg" width="700">
+<img src="./Screenshots/WhatsApp%20Image%202020-05-09%20at%2012.42.57%20PM.jpeg" width="700">
+
 ## Links:
 * [Download App](https://drive.google.com/file/d/1Gq7LWtqNps0AYHN14icCCSoSty_YAUmH/view?usp=drivesdk)
 * [Website](https://niteshbharti005101.github.io/XploVR/)
 * [Video Demo](#)
-
-
-# Website Screenshot
-![Web1](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/WhatsApp%20Image%202020-05-09%20at%2012.42.33%20PM.jpeg)
-![Web2](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/WhatsApp%20Image%202020-05-09%20at%2012.42.57%20PM.jpeg)
-
 
 ## Contributors ✨
 
