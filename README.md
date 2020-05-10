@@ -53,4 +53,5 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://github.com/soilshubham"><img src="https://avatars2.githubusercontent.com/u/54865101" width="100px;" alt=""/><br /><sub><b>Sahil Shubham</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/moit-bytes"><img src="https://avatars1.githubusercontent.com/u/53662024" width="100px;" alt=""/><br /><sub><b>Mohit Kumar</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/niteshbharti005101"><img src="https://avatars2.githubusercontent.com/u/52861833" width="100px;" alt=""/><br /><sub><b>Nitesh Bharti</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/arpitk02"><img src="https://avatars0.githubusercontent.com/u/53942328" width="100px;" alt=""/><br /><sub><b>Arpit Kumar</b></sub></a><br /></td>
 </table>
